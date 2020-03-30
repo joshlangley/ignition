@@ -61,7 +61,7 @@ service-identity==18.1.0
 simplejson==3.16.0
 six==1.14.0
 spake2==0.8
-Twisted==18.9.0
+Twisted==19.7.0
 txaio==2.10.0
 txtorcon==19.0.0
 u-msgpack-python==2.1
